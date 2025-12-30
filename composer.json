@@ -1,0 +1,9 @@
+{
+    "name": "empire/hello",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Empire\\Hello\\": "src/"
+        }
+    }
+}
